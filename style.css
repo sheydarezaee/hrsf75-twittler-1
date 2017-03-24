@@ -1,0 +1,18 @@
+body {
+	background-color: #e6e6ff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	width: 1500px;
+	height: 1500px;
+}
+
+.refresh {
+	background-color: #6666ff;
+	font-size: 25px;
+	font-family: Cursive;
+}
+
+img {
+	height: 100px;
+    width: 100px;
+}
